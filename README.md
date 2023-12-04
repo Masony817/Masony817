@@ -1,14 +1,9 @@
 - 👋 Hi, I’m @Masony817 (Mason Yarbrough)
--       let Age = 16 years old
--       let High School = Lewisburg High School
--       let Interests = Machine Learning/Artificial Intelligence & Genetic Algorithms
--       let currentProgramming =  Python, Java, Javascript and going to learn Kotlin after Java
-- 
-- 📫 How to reach me:
--       Instagram: theyarbroughexperience_
--       Email: Masony817@gmail.com
+- I am a University Student at the University of Tennessee @ Chattanooga
+- I am a Computer Science and Physcis major/minor with projects in many different fields
+- I am mainly interested in Machine Learning and Quantum Computing
+- I am building a event based social media app named Circliq :)
 
-<!---
-Masony817/Masony817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Contact me personally: Masony817@gmail.com
+- Contact my business: Circliq.business@gmail.com 
 --->
